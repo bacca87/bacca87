@@ -4,3 +4,5 @@
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacca87&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=6" href="https://github.com/sp-xd" />
 
 </a>
+
+![](https://komarev.com/ghpvc/?username=bacca87&style=flat-square)
